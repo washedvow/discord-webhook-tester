@@ -6,6 +6,6 @@ to get started, clone or download the file.
 
 then install webhook-discord via pip : "pip install webhook-discord"
 
-then just use "py test.py" to run the script
+then just use "py tester.py" to run the script
 
 follow the prompt you see in terminal
